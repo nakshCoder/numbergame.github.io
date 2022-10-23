@@ -21,7 +21,7 @@ body {
   border: none;
   padding: 20px 30px;
   font-size: 1.2rem;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 
 .header-content {
@@ -66,7 +66,7 @@ body {
   font-size: 2rem;
   padding-left: 10px;
   color: white;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 
 .game-box button {
